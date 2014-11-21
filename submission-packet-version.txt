@@ -1,2 +1,2 @@
-version .1
+ver .1
 http://www.datasf.org/coordinators
